@@ -11,7 +11,7 @@ public class Doador {
     @Column(name = "doador_id")
     private int id;
 
-    @Column(name = "doador_name")
+    @Column(name = "doador_nome")
     private String nome;
 
     @Column(name = "doador_endereco")
